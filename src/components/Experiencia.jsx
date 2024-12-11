@@ -13,7 +13,6 @@ export default function Experiencia(){
               <div id="experience1" className="accordion-collapse collapse">
                   <div className="accordion-body">
                       <p><strong>2023 - Actual</strong></p>
-                      <p>Descripción detallada de las labores realizadas, retos enfrentados y conocimientos adquiridos.</p>
                   </div>
               </div>
           </div>
@@ -27,7 +26,6 @@ export default function Experiencia(){
               <div id="experience2" className="accordion-collapse collapse">
                   <div className="accordion-body">
                       <p><strong>2022 - 2023</strong></p>
-                      <p>Descripción detallada de las labores realizadas, retos enfrentados y conocimientos adquiridos.</p>
                   </div>
               </div>
           </div>
@@ -41,7 +39,6 @@ export default function Experiencia(){
             <div id="experience3" className="accordion-collapse collapse">
                 <div className="accordion-body">
                     <p><strong>2020 - 2021</strong></p>
-                    <p>Descripción detallada de las labores realizadas, retos enfrentados y conocimientos adquiridos.</p>
                 </div>
             </div>
         </div>

@@ -14,7 +14,7 @@ export default function Header() {
                     <Link to="/" className="btn btn-outline-light btn-lg btn-menu mb-4">Home</Link>
                     <Link to="/sobre-mi" className="btn btn-outline-light btn-lg btn-menu mb-4">Sobre mí</Link>
                     <Link to="/proyectos" className="btn btn-outline-light btn-lg btn-menu mb-4">Proyectos</Link>
-                    <Link to="/newsletter" className="btn btn-outline-light btn-lg btn-menu mb-4">NewsLetter</Link>
+                    <Link to="/newsletter" className="btn btn-outline-light btn-lg btn-menu mb-4">News Letter</Link>
                     <Link to="/contacto" className="btn btn-outline-light btn-lg btn-menu mb-4">Contáctame</Link>
                 </div>
             </section>

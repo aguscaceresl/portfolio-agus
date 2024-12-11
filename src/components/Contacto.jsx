@@ -14,10 +14,16 @@ export default function Contacto(){
                     <form name="EnviarMensaje" id="contactForm">
                         <div className="row">
                             <div className="control-group mb-3 col-sm-6">
-                                <input type="text" className="form-control p-4" id="name" placeholder="Tu Nombre" required />
+                                <input type="text" className="form-control p-4" id="name" placeholder="Nombre" required />
+                            </div>
+                            <div className="control-group mb-3 col-sm-6">
+                                <input type="text" className="form-control p-4" id="apellidos" placeholder="Apellidos" required />
                             </div>
                             <div className="control-group mb-3 col-sm-6">
                                 <input type="email" className="form-control p-4" id="email" placeholder="Email" required />
+                            </div>
+                            <div className="control-group mb-3 col-sm-6">
+                                <input type="text" className="form-control p-4" id="phone" placeholder="Teléfono" required />
                             </div>
                         </div>
                         <div className="control-group mb-3">
