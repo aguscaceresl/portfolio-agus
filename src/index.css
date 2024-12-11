@@ -88,18 +88,18 @@ background-repeat: no-repeat;
 }
 
 .fondo1 {
-background-image: url('../imgs/tetris.png'); 
+background-image: url('/tetris.png'); 
 height: 200px;
 }
 
 .fondo2 {
-background-image: url('../imgs/weather-app.jpg'); 
+background-image: url('/weather-app.jpg'); 
 height: 200px;
 
 }
 
 .fondo3 {
-background-image: url('../imgs/calculadora.webp'); 
+background-image: url('/calculadora.webp'); 
 height: 200px;
 
 }
