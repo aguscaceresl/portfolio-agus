@@ -49,9 +49,9 @@ export default function NewsLetter(){
                   </div>
                 </div>
               ))}
-              <button className="load-more-btn" onClick={loadMore}>
+              {numNews<10? <button className="load-more-btn" onClick={loadMore}>
                 Cargar más
-              </button>
+              </button> : <p className="text-center text-light lead ">No hay mas notícias por ahora</p>}
             </div>
     );
 }
