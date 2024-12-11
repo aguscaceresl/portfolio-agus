@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "author": "BBC News",
+        "content": "Experts have called ghost guns the country's fastest-growing gun safety problem. They have been increasingly used in high-profile shootings.\r\nAccording to figures from the Bureau of Alcohol, Tobacco,… [+887 chars]",
+        "description": "Advocacy groups call the controversial weapon \"the fastest growing gun safety problem in the US\".",
+        "publishedAt": "2024-12-10T22:37:23.3147887Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "What is a ghost gun, the weapon allegedly used in New York CEO shooting?",
+        "url": "https://www.bbc.co.uk/news/articles/c5y79k8vg3lo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0715/live/82b6b760-b71a-11ef-97e5-89e476d4b612.jpg"
+      },
+      {
+        "author": "BBC News",
+        "content": "Earlier, the UK-based Syrian Observatory for Human Rights (SOHR) said it had documented more than 310 strikes by the IDF since the Syrian government was overthrown by rebels on Sunday.\r\nIn a statemen… [+1333 chars]",
+        "description": "The BBC has verified videos showing blasts in the Syrian port of Latakia, as Israel conducts strikes across Syria.",
+        "publishedAt": "2024-12-10T21:37:28.0430237Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "Syria: Israel confirms attack on naval fleet in Latakia",
+        "url": "https://www.bbc.co.uk/news/articles/cqx808q7lrno",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7366/live/8ec6f250-b70f-11ef-aff0-072ce821b6ab.jpg"
+      },
+      {
+        "author": "BBC News",
+        "content": "Meanwhile mixed reactions to the shooting and Mr Mangione's arrest continue sympathy for Thompson and his family versus anger at the state of America's expensive, vastly complicated health care syste… [+1314 chars]",
+        "description": "The CEO shooting suspect's technology expertise might helped him evade capture, but basic mistakes caught up to him in the end.",
+        "publishedAt": "2024-12-10T21:37:25.1687387Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "Six-day hunt for Luigi Mangione came to an end at McDonald's",
+        "url": "https://www.bbc.co.uk/news/articles/c0ewgp1qrqvo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/653a/live/d6bdb000-b735-11ef-a64f-b3c7b6699fbc.jpg"
+      },
+      {
+        "author": "BBC News",
+        "content": "Rail services on all three days are expected to be limited.\r\nA revised timetable for 22 and 23 December will be made available on Saturday 14 December. \r\nAround 300 train managers are expected to joi… [+1044 chars]",
+        "description": "Train managers have voted for walkouts on 22, 23 and 29 December in a row over rest days.",
+        "publishedAt": "2024-12-10T21:07:36.1205771Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "Avanti West Coast workers to strike over Christmas",
+        "url": "https://www.bbc.co.uk/news/articles/c1j0pn23ryjo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b149/live/f645b2c0-b734-11ef-a64f-b3c7b6699fbc.png"
+      },
+      {
+        "author": "BBC News",
+        "content": "As well as cash, Reform UK has been gaining valuable contacts in Westminster. \r\nLast week former Johnson adviser Tim Montgomerie, a veteran Tory commentator who founded the influential Conservative H… [+2670 chars]",
+        "description": "Billionaire former Tory donor is aiming to raise big money to help put Nigel Farage in No 10.",
+        "publishedAt": "2024-12-10T21:07:34.230424Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "Nigel Farage recruits property tycoon Nick Candy as Reform treasurer",
+        "url": "https://www.bbc.co.uk/news/articles/czr3n6g4lyjo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/668e/live/f9030990-b72a-11ef-8768-5549ae405050.jpg"
+      },
+      {
+        "author": "BBC News",
+        "content": "In an emotional chat with the audience for Jamie Foxx: What Had Happened Was..., recorded in Atlanta, the city where he was working when he fell ill, Foxx said he was initially sent home by medics af… [+809 chars]",
+        "description": "The Hollywood star said he cannot remember the first 20 days following the stroke in April last year.",
+        "publishedAt": "2024-12-10T21:07:26.7479104Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "Jamie Foxx reveals he had a stroke in 2023",
+        "url": "https://www.bbc.co.uk/news/articles/cn8g94p070lo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1fe1/live/345cca60-b714-11ef-bae3-75ea1048aab7.jpg"
+      },
+      {
+        "author": "BBC News",
+        "content": "One of them was Ahmed al-Awda, a poet who studied English literature at university before becoming an army officer, and then a rebel leader - now the militia leader of Deraa Province.\r\n\"You can't ima… [+1453 chars]",
+        "description": "Hamza al-Khatib, 13, was arrested at a 2011 anti-government rally and tortured - but Assad's downfall has not brought his family justice.",
+        "publishedAt": "2024-12-10T21:07:23.6236875Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "Mother whose son's death inflamed Syrian revolution on Assad's downfall",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9z3r2xp9o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0104/live/fb2ca6b0-b732-11ef-aff0-072ce821b6ab.png"
+      },
+      {
+        "author": "BBC News",
+        "content": "The government said departments would have to fund 2025-26 and future pay increases from their own budgets and unlike in recent years there would be no additional money if recommended pay awards exce… [+1103 chars]",
+        "description": "Teachers, NHS staff and senior civil servants are among those covered by the proposals.",
+        "publishedAt": "2024-12-10T19:07:24.9917636Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "Government recommends 2.8% pay rise for public sector workers",
+        "url": "https://www.bbc.co.uk/news/articles/czxdnexrvv8o",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e0c9/live/b4e4da10-b723-11ef-97e5-89e476d4b612.jpg"
+      },
+      {
+        "author": "BBC News",
+        "content": "28 Years Later is set nearly three decades after the first film, when a \"rage virus\" which disastrously infected humans escaped a biological weapons laboratory.\r\nWe meet a group of survivors in the t… [+1136 chars]",
+        "description": "Some suggest a zombie that pops up in the trailer may be Murphy's original 28 Days Later character.",
+        "publishedAt": "2024-12-10T17:22:26.8334192Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "28 Years Later: Trailer has fans guessing over Cillian Murphy's fate",
+        "url": "https://www.bbc.co.uk/news/articles/cd0enn3kekyo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/edc4/live/66df9fc0-b6fc-11ef-a70a-05fc3b931447.jpg"
+      },
+      {
+        "author": "BBC News",
+        "content": "Mr Voyce, from Truro in Cornwall, played for England from 2001 until 2006, before retiring from the sport in 2013.\r\nHe has been living in Alnwick since 2020.\r\nSpecialist officers from the Northumbria… [+237 chars]",
+        "description": "Northumbria Police says a search is continuing where Tom Voyce's car was found near Alnwick.",
+        "publishedAt": "2024-12-10T17:22:22.5688555Z",
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "title": "England rugby star Tom Voyce missing in Storm Darragh flood",
+        "url": "https://www.bbc.co.uk/news/articles/c7859539x9vo",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7fb0/live/c708e8d0-b719-11ef-a2ca-e99d0c9a24e3.jpg"
+      }
+    ]
+  }
+  

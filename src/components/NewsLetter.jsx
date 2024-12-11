@@ -6,13 +6,15 @@ export default function NewsLetter(){
 
     async function fetchNews(){
         try{
-            const res = await fetch('https://cors-anywhere.herokuapp.com/https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=2e9d6480f4dd4628bf970541ce391292');
+            const res = await fetch('/data/news.json');
       
             if(!res.ok){
               throw new Error('Error al obtener los datos');
             }
       
             const articles = await res.json();
+
+            console.log(articles);
             
             setNews(articles.articles.slice(0,numNews));
       
