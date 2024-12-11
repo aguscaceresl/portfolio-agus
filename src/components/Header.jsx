@@ -20,7 +20,6 @@ export default function Header(){
         </div>
       </section>
       <a href="#top" className="btn btn-primary position-fixed bottom-0 end-0 m-3 z-5">
-          <i className="fas fa-arrow-up"></i>
       </a>
       </>
     );
