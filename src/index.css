@@ -1,0 +1,105 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 90%; 
+  max-width: 680px; 
+  margin: 0 auto;
+  background: linear-gradient(220deg, #143167, #2e68cb);
+  min-height: 100vh;
+  padding: 20px; 
+}
+
+.retrato{
+height: 320px;
+}
+
+@media (min-width: 768px) {
+body {
+  width: 70%; 
+}
+}
+
+/* Configuración para pantallas grandes */
+@media (min-width: 992px) {
+body {
+  width: 60%;
+  margin: 0 auto; /* Centra el contenido */
+}
+
+.responsive-width {
+  gap: 20px; /* Espaciado entre filas y columnas */
+}
+
+.card {
+  display: flex; /* Opcional: para garantizar alineación interna */
+  flex-direction: column; /* Garantiza que el contenido interno esté alineado */
+  justify-content: space-between; /* Ajusta el contenido interno si es necesario */
+  height: auto; /* Asegúrate de que las tarjetas no tengan alturas fijas */
+}
+}
+
+
+
+.foto {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.btn-menu {
+  width: 100%;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+
+/* Secciones */
+.card{
+background-color: rgba(255, 255, 255, 0.202);
+border: solid 2px #e7e7e7;
+border-radius: 3%;
+margin: 0 auto;
+}
+
+.responsive-width {
+display: flex;
+flex-direction: column; /* Modo predeterminado (una tarjeta debajo de otra) */
+gap: 20px; /* Espaciado entre las filas */
+}
+
+/* Formulario */
+.formulario{
+background-color: rgba(255, 255, 255, 0.269);
+border: solid 2px #e7e7e7;
+border-radius: 3%;
+}
+.collapsing-custom {
+    transition: height 0.6s ease, opacity 0.6s ease !important; 
+    opacity: 0;
+}
+.collapsing-custom.show {
+  opacity: 1;
+}
+
+/* Carrusel */
+.carousel-slide-bg {
+height: auto; 
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.fondo1 {
+background-image: url('../imgs/tetris.png'); 
+height: 200px;
+}
+
+.fondo2 {
+background-image: url('../imgs/weather-app.jpg'); 
+height: 200px;
+
+}
+
+.fondo3 {
+background-image: url('../imgs/calculadora.webp'); 
+height: 200px;
+
+}
